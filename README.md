@@ -23,7 +23,7 @@ Ce projet a été développé dans le but de créer une expérience utilisateur 
 * HTML5
 * CSS3
 * PHP
-*Bootstrap
+* Bootstrap
 * MySQL (Base de données)
 
 ---
